@@ -1,26 +1,67 @@
-[經濟類]社區期票 1.0 體系提案 07 May 2024
-期票泛指：
-以資源類方塊作量化抵押品的票據；
-以非資源類方塊作量化抵押品的票據；
-以生存模式裏可自然獲取的遊戲物品，作可量化抵押品的票據；
-以管理員之任意定製遊戲物品作可量化抵押品的票據；以及
-以管理員受認可之任意遊戲內物品作可量化抵押品的票據。
-任何票據、期票，需具有以下特徵：
-由相應數量的抵押品支持；
-具有對掛鉤抵押品的兌換力；
-相關抵押品具有透明的，可由任何玩家監視的流通量；
-不可複製性；
-資本市場機制運作下的自由流通力
-期票對應的抵押品單位：
-可疊類物品(Stackable Items)：
-”Set”/“Stack” - 即一格物品欄內，自身最大自然疊加量是16-64個的物品；
-1 Set - 對應A類期票；
-2 Set - 對應B類期票；
-1張B類期票可換2張A類期票。
+[經濟類]社區期票 1.0 體系提案 07 & 08 May 2024
+1. 期票泛指：
+  a. 以資源類方塊作量化抵押品的票據；
+  b. 以非資源類方塊作量化抵押品的票據；
+  c. 以生存模式裏可自然獲取的遊戲物品，作可量化抵押品的票據；
+  d. 以管理員之任意定製遊戲物品作可量化抵押品的票據；以及
+  e. 以管理員受認可之任意遊戲內物品作可量化抵押品的票據。
 
-期票1.0裏期票最大面額為B類期票。
-不可疊類物品(Unstackable Items):
-“Unit” -  即一格物品欄內，自身最大容量只能為1個的物品
-1 Unit - 對應Z類期票；
+2. 任何票據、期票，需具有以下特徵：
+  a. 由相應數量的抵押品支持；
+  b. 具有對掛鉤抵押品的兌換力；
+  c. 相關抵押品具有透明的，可由任何玩家監視的流通量；
+  d. 不可複製性；以及
+  e. 資本市場機制運作下的自由流通力。
 
-期票1.0裏不可疊加類期票最大面額為Z類期票。
+3.期票對應的抵押品單位：
+  a. 可疊類物品(Stackable Items)：
+  “Set”/“Stack” - 即一格物品欄內，自身最大自然疊加量是16-64個的物品；
+  1 Set - 對應A類期票；
+  2 Set - 對應B類期票；
+
+  (i)/1張B類期票可換2張A類期票。
+  (ii)/期票1.0裏期票最大面額為B類期票。
+
+  b. 不可疊類物品(Non-stackable Items):
+  “Unit” -  即一格物品欄內，自身最大容量只能為1個的物品
+  1 Unit - 對應Z類期票；
+
+(i)/期票1.0裏不可疊加類期票最大面額為Z類期票。
+
+4. 管理員保留最終裁定權。
+------------------------------------------
+English Translation:
+A Draft Proposal On Item-Backed Term Bill （ITB） Trading | Version 1.0
+
+1. An Item-Backed Term Bill ("ITB" in short) refers to:
+  a. A Note/Bill backed by resource blocks;
+  b. A Note/Bill backed by non-resource blocks;
+  c. A Note/Bill backed by naturally obtainable items in survival mode;
+  d. A Note/Bill backed by any customised items forged by the moderator; and
+  e. A Bote/Bill backed by any quantifiable in-game items, which must be verified and recognised by the moderator.
+
+2. Any Item-Backed Term Bills must contain the following characteristics:
+  a. Backed by its collateral;
+  b. Has the fixed exchange value designated to the amount of collaterals;
+  c. The collaterals is under a transparent, trackable volume trading which can be monitored by any players;
+  d. Non-Fungible/Anti-counterfeiting; and
+  e. Free liquidity under the market mechanism of the player base.
+
+3. Unit size of the collaterals:
+  a. Stackable items:
+  "Set(s)"/"Stack(s)" refers to the maximum capacity of an item slot that can naturally store the item (16 to 64)
+  e.g. Snowball has a natural maximum stackable capacity of 16 in one item slot; cobblestone has a natural maximum stackable capacity of 64 in one item slot.
+  
+  1 Set/1 Stack - One unit of type A ITB;
+  2 Sets/2 Stacks - Two units of type B ITB.
+
+  (i)/Two units of type A ITBs have a fixed exchange rate to One unit of type B ITB;
+  (ii)/Version 1.0 of ITB trading allows type B ITB to be legally the maximum face value for stackable items.
+
+  b. Non-stackable items:
+  "unit" refers to the refers to the monopolistic capacity of an item slot that can naturally store the item.
+  1 unit - 1 unit of type Z ITB;
+
+(i)/Version 1.0 of ITB trading allows type Z ITB to be legally the maximum face value for non-stackable items.
+
+4. All rights to arbitration and articulation are reserved to the moderator.
